@@ -12,6 +12,9 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.yy table tr td{
+  padding: 30px;
+}
 
 .App-header {
   background-color: #282c34;
