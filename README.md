@@ -1,6 +1,15 @@
 # MERN Login and Registration
 
 This is a simple Login and Registration project based on the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to register their details and store them in a NoSQL MongoDB database. After successful registration, users can log in using their credentials and view their details on a card displayed on the welcome page.
+## Topics Covered
+
+- JavaScript
+- HTML5
+- CSS3
+- ReactJS
+- CSS Grid
+- Figma
+- CSS Flexbox
 
 ## Features
 
